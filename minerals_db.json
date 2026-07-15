@@ -1,0 +1,286 @@
+{
+  "minerals": [
+    {
+      "name": "Actinolite",
+      "formula": "Ca₂(Mg,Fe)₅Si₈O₂₂(OH)₂",
+      "hardness": "5.5 - 6.0",
+      "crystal_system": "Monoclinic",
+      "luster": "Vitreous",
+      "streak": "White",
+      "gravity": "3.0",
+      "localities": "Kogi, Kwara, Federal Capital Territory"
+    },
+    {
+      "name": "Barite",
+      "formula": "BaSO₄",
+      "hardness": "3.0 - 3.5",
+      "crystal_system": "Orthorhombic",
+      "luster": "Vitreous to Pearly",
+      "streak": "White",
+      "gravity": "4.5",
+      "localities": "Benue, Nasarawa, Taraba, Cross River, Gombe"
+    },
+    {
+      "name": "Bottinoite",
+      "formula": "NiSb₂(OH)₁₂",
+      "hardness": "3.5",
+      "crystal_system": "Trigonal",
+      "luster": "Vitreous",
+      "streak": "Pale Green",
+      "gravity": "4.0",
+      "localities": "Nasarawa, Kaduna"
+    },
+    {
+      "name": "Cassiterite",
+      "formula": "SnO₂",
+      "hardness": "6.0 - 7.0",
+      "crystal_system": "Tetragonal",
+      "luster": "Adamantine to Metallic",
+      "streak": "White to Pale Brown",
+      "gravity": "7.0",
+      "localities": "Plateau (Jos), Nasarawa, Bauchi, Kaduna, Kano"
+    },
+    {
+      "name": "Chromite",
+      "formula": "FeCr₂O₄",
+      "hardness": "5.5",
+      "crystal_system": "Isometric",
+      "luster": "Submetallic to Metallic",
+      "streak": "Dark Brown",
+      "gravity": "4.6",
+      "localities": "Kano, Kaduna, Zamfara, Katsina"
+    },
+    {
+      "name": "Columbite",
+      "formula": "FeNb₂O₆",
+      "hardness": "6.0",
+      "crystal_system": "Orthorhombic",
+      "luster": "Submetallic",
+      "streak": "Dark Red to Black",
+      "gravity": "5.2",
+      "localities": "Plateau, Nasarawa, Kogi, Kwara, Cross River"
+    },
+    {
+      "name": "Fluorite",
+      "formula": "CaF₂",
+      "hardness": "4.0",
+      "crystal_system": "Isometric",
+      "luster": "Vitreous",
+      "streak": "White",
+      "gravity": "3.2",
+      "localities": "Taraba, Bauchi, Plateau, Benue"
+    },
+    {
+      "name": "Gold",
+      "formula": "Au",
+      "hardness": "2.5 - 3.0",
+      "crystal_system": "Isometric",
+      "luster": "Metallic",
+      "streak": "Golden Yellow",
+      "gravity": "19.3",
+      "localities": "Zamfara, Kaduna, Osun (Ilesha), Kwara, Niger, Kebbi"
+    },
+    {
+      "name": "Gypsum",
+      "formula": "CaSO₄·2H₂O",
+      "hardness": "2.0",
+      "crystal_system": "Monoclinic",
+      "luster": "Vitreous to Pearly",
+      "streak": "White",
+      "gravity": "2.3",
+      "localities": "Sokoto, Adamawa, Gombe, Taraba, Benue"
+    },
+    {
+      "name": "Halite",
+      "formula": "NaCl",
+      "hardness": "2.5",
+      "crystal_system": "Isometric",
+      "luster": "Vitreous",
+      "streak": "White",
+      "gravity": "2.1",
+      "localities": "Benue, Cross River, Ebonyi (Uburu/Okposi)"
+    },
+    {
+      "name": "Hastingite",
+      "formula": "NaCa₂(Fe₄Al)(Si₆Al₂)O₂₂(OH)₂",
+      "hardness": "5.0 - 6.0",
+      "crystal_system": "Monoclinic",
+      "luster": "Vitreous",
+      "streak": "Greenish-White",
+      "gravity": "3.4",
+      "localities": "Bauchi, Kaduna, Plateau"
+    },
+    {
+      "name": "Hematite",
+      "formula": "Fe₂O₃",
+      "hardness": "5.5 - 6.5",
+      "crystal_system": "Trigonal",
+      "luster": "Metallic to Dull",
+      "streak": "Rust Red",
+      "gravity": "5.3",
+      "localities": "Kogi (Ajaokuta), Enugu, Nasarawa, Zamfara"
+    },
+    {
+      "name": "Lead",
+      "formula": "PbS (Galena)",
+      "hardness": "2.5",
+      "crystal_system": "Isometric",
+      "luster": "Metallic",
+      "streak": "Lead Gray",
+      "gravity": "7.6",
+      "localities": "Ebonyi (Ashiara), Benue, Taraba, Plateau, Kano"
+    },
+    {
+      "name": "Magnetite",
+      "formula": "Fe₃O₄",
+      "hardness": "5.5 - 6.5",
+      "crystal_system": "Isometric",
+      "luster": "Metallic",
+      "streak": "Black",
+      "gravity": "5.2",
+      "localities": "Kogi, Zamfara, Oyo, Kaduna"
+    },
+    {
+      "name": "Mica",
+      "formula": "KAl₂(AlSi₃O₁₀)(OH)₂",
+      "hardness": "2.5 - 3.0",
+      "crystal_system": "Monoclinic",
+      "luster": "Pearly to Vitreous",
+      "streak": "White",
+      "gravity": "2.8",
+      "localities": "Kogi, Ekiti, Oyo, Nasarawa, Cross River"
+    },
+    {
+      "name": "Quartz",
+      "formula": "SiO₂",
+      "hardness": "7.0",
+      "crystal_system": "Trigonal",
+      "luster": "Vitreous",
+      "streak": "White",
+      "gravity": "2.65",
+      "localities": "Kwara, Oyo, Kaduna, Taraba, Plateau, Jigawa"
+    },
+    {
+      "name": "Staurolite",
+      "formula": "Fe₂Al₉O₆(SiO₄)₄(O,OH)₂",
+      "hardness": "7.0 - 7.5",
+      "crystal_system": "Monoclinic",
+      "luster": "Vitreous to Resinous",
+      "streak": "White/Gray",
+      "gravity": "3.7",
+      "localities": "Kaduna, Taraba, Bauchi"
+    },
+    {
+      "name": "Talc",
+      "formula": "Mg₃Si₄O₁₀(OH)₂",
+      "hardness": "1.0",
+      "crystal_system": "Monoclinic",
+      "luster": "Pearly to Greasy",
+      "streak": "White",
+      "gravity": "2.7",
+      "localities": "Oyo, Niger, Kaduna, Kogi, Ogun"
+    },
+    {
+      "name": "Tantalite",
+      "formula": "FeTa₂O₆",
+      "hardness": "6.0 - 6.5",
+      "crystal_system": "Orthorhombic",
+      "luster": "Submetallic",
+      "streak": "Black to Dark Brown",
+      "gravity": "8.2",
+      "localities": "Kogi, Ekiti, Cross River, Nasarawa, Kwara"
+    },
+    {
+      "name": "Topaz",
+      "formula": "Al₂SiO₄(F,OH)₂",
+      "hardness": "8.0",
+      "crystal_system": "Orthorhombic",
+      "luster": "Vitreous",
+      "streak": "White",
+      "gravity": "3.5",
+      "localities": "Plateau, Nasarawa, Oyo, Bauchi"
+    },
+    {
+      "name": "Zincite",
+      "formula": "ZnO",
+      "hardness": "4.0",
+      "crystal_system": "Hexagonal",
+      "luster": "Subadamantine",
+      "streak": "Orange-Yellow",
+      "gravity": "5.6",
+      "localities": "Plateau, Kano, Abuja"
+    },
+    {
+      "name": "Zircon",
+      "formula": "ZrSiO₄",
+      "hardness": "7.5",
+      "crystal_system": "Tetragonal",
+      "luster": "Adamantine",
+      "streak": "White",
+      "gravity": "4.7",
+      "localities": "Kaduna, Plateau, Nasarawa, Taraba"
+    }
+  ],
+  "state_distributions": [
+    {
+      "state_name": "Sokoto",
+      "mineral_list": ["Gypsum", "Quartz"],
+      "preview_img": "/static/previews/gypsum.jpg"
+    },
+    {
+      "state_name": "Zamfara",
+      "mineral_list": ["Gold", "Chromite", "Magnetite", "Hematite"],
+      "preview_img": "/static/previews/gold.jpg"
+    },
+    {
+      "state_name": "Kebbi",
+      "mineral_list": ["Gold", "Quartz"],
+      "preview_img": "/static/previews/quartz.jpg"
+    },
+    {
+      "state_name": "Niger",
+      "mineral_list": ["Talc", "Gold", "Lead"],
+      "preview_img": "/static/previews/talc.jpg"
+    },
+    {
+      "state_name": "Kaduna",
+      "mineral_list": ["Gold", "Columbite", "Zircon", "Staurolite", "Chromite", "Hastingite", "Talc", "Quartz", "Bottinoite"],
+      "preview_img": "/static/previews/zircon.jpg"
+    },
+    {
+      "state_name": "Kano",
+      "mineral_list": ["Chromite", "Zincite", "Cassiterite", "Lead"],
+      "preview_img": "/static/previews/chromite.jpg"
+    },
+    {
+      "state_name": "Borno",
+      "mineral_list": ["Gypsum"],
+      "preview_img": "/static/previews/gypsum.jpg"
+    },
+    {
+      "state_name": "Plateau",
+      "mineral_list": ["Cassiterite", "Columbite", "Topaz", "Fluorite", "Zincite", "Zircon", "Hastingite", "Quartz", "Lead"],
+      "preview_img": "/static/previews/cassiterite.jpg"
+    },
+    {
+      "state_name": "Kogi",
+      "mineral_list": ["Hematite", "Magnetite", "Tantalite", "Mica", "Actinolite", "Columbite", "Talc"],
+      "preview_img": "/static/previews/hematite.jpg"
+    },
+    {
+      "state_name": "Nasarawa",
+      "mineral_list": ["Barite", "Cassiterite", "Columbite", "Topaz", "Bottinoite", "Hematite", "Mica", "Tantalite", "Zircon"],
+      "preview_img": "/static/previews/barite.jpg"
+    },
+    {
+      "state_name": "Oyo",
+      "mineral_list": ["Magnetite", "Mica", "Quartz", "Talc", "Topaz"],
+      "preview_img": "/static/previews/mica.jpg"
+    },
+    {
+      "state_name": "Benue",
+      "mineral_list": ["Barite", "Lead", "Halite", "Fluorite", "Gypsum"],
+      "preview_img": "/static/previews/barite.jpg"
+    }
+  ]
+}
