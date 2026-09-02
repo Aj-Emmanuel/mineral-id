@@ -1,9 +1,10 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
 fastapi
 uvicorn
+gunicorn
 torch
 torchvision
 pillow
 python-multipart
-gunicorn
 numpy
 pandas
