@@ -16,18 +16,11 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# Your 22 mineral class names — must match training order
-CLASS_NAMES = [
-    "Actinolite", "Barite", "Bottinoite", "Cassiterite",
-    "Chromite", "Columbite", "Fluorite", "Gold", "Gypsum",
-    "Halite", "Hastingite", "Hematite", "Lead", "Magnetite",
-    "Mica", "Quartz", "Staurolite", "Talc", "Tantalite",
-    "Topaz", "Zincite", "Zircon"
-]
+@app.get("/")
+def health_check():
+    return {"status": "ok"}
 
 # Load your model
-model = models.resnet18(pretrained=False)
-model.fc = torch.nn.Linear(model.fc.in_features, len(CLASS_NAMES))
 checkpoint = torch.load("mineral_resnet18_v2.pth", map_location="cpu")
 idx_to_label = checkpoint["idx_to_label"]
 CLASS_NAMES = [idx_to_label[i] for i in range(len(idx_to_label))]
